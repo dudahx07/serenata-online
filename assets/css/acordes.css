@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Slabo 27px", serif;
+}
+body{
+    background-image: url(/assets/images/fundo-acordes.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.row{
+    text-align: center;
+    padding-top: 180px;
+}
+.card1{
+    margin-left: auto;
+}
